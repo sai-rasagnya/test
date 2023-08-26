@@ -1,6 +1,0 @@
-{{#user}}
-Name:Chundi Sai Rasagnya
-Skills:HTML,CSS,Javascript,AWS,linux,shell scripting,jenkins,kubernates,docker,Terraform,Javascript
-email:rasagnyasai544@gmail.com
-{{/user}}
-
